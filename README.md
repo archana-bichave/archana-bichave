@@ -32,14 +32,6 @@ Focused on clean architecture, performance optimization, and maintainable system
 
 ---
 
-## 📈 GitHub Stats
-
-![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=archana-bichave&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archana-bichave&layout=compact)
-
----
-
 ## 🚀 What I'm Currently Working On
 
 - Advanced React patterns and rendering optimization
